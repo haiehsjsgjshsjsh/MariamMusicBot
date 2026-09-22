@@ -1,4 +1,0 @@
-pyrogrammod>=2.1.2
-py-tgcalls
-yt-dlp
-tgcrypto
