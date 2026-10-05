@@ -1,3 +1,0 @@
-py-tgcalls[pyrogram]
-yt-dlp
-tgcrypto
